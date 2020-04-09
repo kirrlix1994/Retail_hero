@@ -1,4 +1,4 @@
-# The 2nd place solution of the [RetailHero Uplift Modelling contest ](https://retailhero.ai/c/uplift_modeling/overview)
+## The 2nd place solution of the [RetailHero Uplift Modelling contest ](https://retailhero.ai/c/uplift_modeling/overview)
 
 ![Contest image](https://retailhero.ai/static/img/%D0%A55_res/uplift_modeling_banner.png)
 
