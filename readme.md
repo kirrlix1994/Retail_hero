@@ -2,7 +2,7 @@
 
 ![Contest image](https://retailhero.ai/static/img/%D0%A55_res/uplift_modeling_banner.png)
 
-### To open Notbebook for read, go to [nbviewer](!add)
+### To open Notbebook for read, go to [nbviewer](https://nbviewer.jupyter.org/github/kirrlix1994/Retail_hero/blob/master/Retail_hero_contest_2nd_place_solution.ipynb)
 
 ## Problem
 
